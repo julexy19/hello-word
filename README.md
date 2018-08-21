@@ -1,2 +1,2 @@
-# hello-word
-just another
+# Big-Brother
+Mi primer repositorio de proyectos en la plataforma GitHub
